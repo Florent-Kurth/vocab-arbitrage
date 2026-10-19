@@ -1,0 +1,252 @@
+{
+  "id": "1fc1a8d5513e",
+  "name": "Football Academy 07 FR-EN",
+  "source_lang": "fr",
+  "target_lang": "en",
+  "pairs": [
+    {
+      "source": "Mise en garde",
+      "target": "Verbal warning"
+    },
+    {
+      "source": "Avertissement",
+      "target": "Caution"
+    },
+    {
+      "source": "Exclusion",
+      "target": "Sending-off"
+    },
+    {
+      "source": "Carton jaune",
+      "target": "Yellow card"
+    },
+    {
+      "source": "Carton rouge",
+      "target": "Red card"
+    },
+    {
+      "source": "Attitude imprudente",
+      "target": "Careless"
+    },
+    {
+      "source": "Attitude inconsidérée",
+      "target": "Reckless"
+    },
+    {
+      "source": "Attitude violente",
+      "target": "Excessive force"
+    },
+    {
+      "source": "Comportement antisportif",
+      "target": "Unsporting behaviour"
+    },
+    {
+      "source": "Acte de brutalité",
+      "target": "Violent conduct"
+    },
+    {
+      "source": "Faute de main",
+      "target": "Handball"
+    },
+    {
+      "source": "But",
+      "target": "Goal"
+    },
+    {
+      "source": "But contre son camp",
+      "target": "Own goal"
+    },
+    {
+      "source": "Coup d’envoi",
+      "target": "Kick-off"
+    },
+    {
+      "source": "Coup de pied de but",
+      "target": "Goal kick"
+    },
+    {
+      "source": "Rentrée de touche",
+      "target": "Throw-in"
+    },
+    {
+      "source": "Corner",
+      "target": "Corner kick"
+    },
+    {
+      "source": "Coup franc direct",
+      "target": "Direct free kick"
+    },
+    {
+      "source": "Coup franc indirect",
+      "target": "Indirect free kick"
+    },
+    {
+      "source": "Penalty",
+      "target": "Penalty kick"
+    },
+    {
+      "source": "Balle à terre",
+      "target": "Dropped ball"
+    },
+    {
+      "source": "Reprise du jeu",
+      "target": "Restart of play"
+    },
+    {
+      "source": "Arbitre (ARB) / Arbitre",
+      "target": "Referee (Ref) / Referee"
+    },
+    {
+      "source": "Arbitre assistant (AA) / Arbitre assistant",
+      "target": "Assistant referee (AR) / Assistant referee"
+    },
+    {
+      "source": "Quatrième arbitre",
+      "target": "Fourth official"
+    },
+    {
+      "source": "Arbitre assistant vidéo (VAR) / Arbitre assistant vidéo",
+      "target": "Video assistant referee (VAR) / Video assistant referee"
+    },
+    {
+      "source": "Joueur",
+      "target": "Player"
+    },
+    {
+      "source": "Officiel d’équipe",
+      "target": "Team official"
+    },
+    {
+      "source": "Agent extérieur",
+      "target": "Outside agent"
+    },
+    {
+      "source": "Ligne de but",
+      "target": "Goal line"
+    },
+    {
+      "source": "Ligne de touche",
+      "target": "Touch line"
+    },
+    {
+      "source": "Ligne médiane",
+      "target": "Halfway line"
+    },
+    {
+      "source": "Surface de réparation",
+      "target": "Penalty area"
+    },
+    {
+      "source": "Surface de but",
+      "target": "Goal area"
+    },
+    {
+      "source": "Rond central",
+      "target": "Centre circle"
+    },
+    {
+      "source": "Point central",
+      "target": "Centre mark"
+    },
+    {
+      "source": "Point de penalty",
+      "target": "Penalty mark"
+    },
+    {
+      "source": "Poteau",
+      "target": "Post"
+    },
+    {
+      "source": "Barre transversale",
+      "target": "Crossbar"
+    },
+    {
+      "source": "Poteau de corner",
+      "target": "Corner flag"
+    },
+    {
+      "source": "Distance",
+      "target": "Distance"
+    },
+    {
+      "source": "Veuillez respecter la distance",
+      "target": "Please keep distance"
+    },
+    {
+      "source": "Jouez plus vite",
+      "target": "Play faster"
+    },
+    {
+      "source": "Attends",
+      "target": "Wait"
+    },
+    {
+      "source": "Sifflet",
+      "target": "Whistle"
+    },
+    {
+      "source": "Attends, je dois siffler",
+      "target": "Wait, I need to whistle"
+    },
+    {
+      "source": "Remplacement",
+      "target": "Substitution"
+    },
+    {
+      "source": "Joueur remplaçant",
+      "target": "Substitute player"
+    },
+    {
+      "source": "Blessure",
+      "target": "Injury"
+    },
+    {
+      "source": "Joueur blessé",
+      "target": "Injured player"
+    },
+    {
+      "source": "Maillot",
+      "target": "Jersey / shirt"
+    },
+    {
+      "source": "Gardien de but",
+      "target": "Goalkeeper"
+    },
+    {
+      "source": "Défenseur",
+      "target": "Defender"
+    },
+    {
+      "source": "Milieu de terrain",
+      "target": "Midfielder"
+    },
+    {
+      "source": "Attaquant",
+      "target": "Attacker"
+    },
+    {
+      "source": "Décompte / compte à rebours",
+      "target": "Countdown"
+    },
+    {
+      "source": "Procédure en trois phases",
+      "target": "Three-step procedure"
+    },
+    {
+      "source": "Interrompre le match",
+      "target": "Stop the game"
+    },
+    {
+      "source": "Suspendre le match",
+      "target": "Suspend the game"
+    },
+    {
+      "source": "Arrêter le match",
+      "target": "Abandon the game"
+    },
+    {
+      "source": "Incidents graves",
+      "target": "Serious Incidents"
+    }
+  ]
+}
