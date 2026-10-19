@@ -1,0 +1,252 @@
+{
+  "id": "acad07it",
+  "name": "Football Academy 07 FR-IT",
+  "source_lang": "fr",
+  "target_lang": "it",
+  "pairs": [
+    {
+      "source": "Mise en garde",
+      "target": "Richiamo verbale"
+    },
+    {
+      "source": "Avertissement",
+      "target": "Ammonizione"
+    },
+    {
+      "source": "Exclusion",
+      "target": "Espulsione"
+    },
+    {
+      "source": "Carton jaune",
+      "target": "Cartellino giallo"
+    },
+    {
+      "source": "Carton rouge",
+      "target": "Cartellino rosso"
+    },
+    {
+      "source": "Attitude imprudente",
+      "target": "Negligenza"
+    },
+    {
+      "source": "Attitude inconsidérée",
+      "target": "Imprudenza"
+    },
+    {
+      "source": "Attitude violente",
+      "target": "Vigoria sproporzionata"
+    },
+    {
+      "source": "Comportement antisportif",
+      "target": "Comportamento antisportivo"
+    },
+    {
+      "source": "Acte de brutalité",
+      "target": "Condotta violenta"
+    },
+    {
+      "source": "Faute de main",
+      "target": "Fallo di mano"
+    },
+    {
+      "source": "But",
+      "target": "Rete / gol"
+    },
+    {
+      "source": "But contre son camp",
+      "target": "Autogol"
+    },
+    {
+      "source": "Coup d’envoi",
+      "target": "Calcio d’inizio"
+    },
+    {
+      "source": "Coup de pied de but",
+      "target": "Rimessa dal fondo / calcio di rinvio"
+    },
+    {
+      "source": "Rentrée de touche",
+      "target": "Rimessa laterale"
+    },
+    {
+      "source": "Corner",
+      "target": "Calcio d’angolo"
+    },
+    {
+      "source": "Coup franc direct",
+      "target": "Calcio di punizione diretto"
+    },
+    {
+      "source": "Coup franc indirect",
+      "target": "Calcio di punizione indiretto"
+    },
+    {
+      "source": "Penalty",
+      "target": "Calcio di rigore"
+    },
+    {
+      "source": "Balle à terre",
+      "target": "Palla d'arbitro"
+    },
+    {
+      "source": "Reprise du jeu",
+      "target": "Ripresa del gioco"
+    },
+    {
+      "source": "Arbitre (ARB) / Arbitre",
+      "target": "Arbitro (ARB) / Arbitro"
+    },
+    {
+      "source": "Arbitre assistant (AA) / Arbitre assistant",
+      "target": "Assistente dell’arbitro (AA) / Assistente dell’arbitro"
+    },
+    {
+      "source": "Quatrième arbitre",
+      "target": "Quarto ufficiale"
+    },
+    {
+      "source": "Arbitre assistant vidéo (VAR) / Arbitre assistant vidéo",
+      "target": "Assistente video (VAR) / Assistente video"
+    },
+    {
+      "source": "Joueur",
+      "target": "Giocatore"
+    },
+    {
+      "source": "Officiel d’équipe",
+      "target": "Dirigente della squadra"
+    },
+    {
+      "source": "Agent extérieur",
+      "target": "Corpo estraneo"
+    },
+    {
+      "source": "Ligne de but",
+      "target": "Linea di porta"
+    },
+    {
+      "source": "Ligne de touche",
+      "target": "Linea laterale"
+    },
+    {
+      "source": "Ligne médiane",
+      "target": "Linea di metà campo"
+    },
+    {
+      "source": "Surface de réparation",
+      "target": "Area di rigore"
+    },
+    {
+      "source": "Surface de but",
+      "target": "Area di porta"
+    },
+    {
+      "source": "Rond central",
+      "target": "Cerchio di centrocampo"
+    },
+    {
+      "source": "Point central",
+      "target": "Punto centrale"
+    },
+    {
+      "source": "Point de penalty",
+      "target": "Punto del calcio di rigore"
+    },
+    {
+      "source": "Poteau",
+      "target": "Palo"
+    },
+    {
+      "source": "Barre transversale",
+      "target": "Traversa"
+    },
+    {
+      "source": "Poteau de corner",
+      "target": "Bandierina d’angolo"
+    },
+    {
+      "source": "Distance",
+      "target": "Distanza"
+    },
+    {
+      "source": "Veuillez respecter la distance",
+      "target": "Per favore mantieni la distanza"
+    },
+    {
+      "source": "Jouez plus vite",
+      "target": "Gioca più velocemente"
+    },
+    {
+      "source": "Attends",
+      "target": "Aspetta"
+    },
+    {
+      "source": "Sifflet",
+      "target": "Fischietto"
+    },
+    {
+      "source": "Attends, je dois siffler",
+      "target": "Aspetta, devo fischiare"
+    },
+    {
+      "source": "Remplacement",
+      "target": "Sostituzione"
+    },
+    {
+      "source": "Joueur remplaçant",
+      "target": "Giocatore di riserva"
+    },
+    {
+      "source": "Blessure",
+      "target": "Infortunio"
+    },
+    {
+      "source": "Joueur blessé",
+      "target": "Giocatore infortunato"
+    },
+    {
+      "source": "Maillot",
+      "target": "Maglia"
+    },
+    {
+      "source": "Gardien de but",
+      "target": "Portiere"
+    },
+    {
+      "source": "Défenseur",
+      "target": "Difensore"
+    },
+    {
+      "source": "Milieu de terrain",
+      "target": "Centrocampista"
+    },
+    {
+      "source": "Attaquant",
+      "target": "Attaccante"
+    },
+    {
+      "source": "Décompte / compte à rebours",
+      "target": "Conto alla rovescia"
+    },
+    {
+      "source": "Procédure en trois phases",
+      "target": "Procedura in tre fasi"
+    },
+    {
+      "source": "Interrompre le match",
+      "target": "Interrompere la partita"
+    },
+    {
+      "source": "Suspendre le match",
+      "target": "Sospendere la partita"
+    },
+    {
+      "source": "Arrêter le match",
+      "target": "Abbandonare la partita"
+    },
+    {
+      "source": "Incidents graves",
+      "target": "Episodi gravi"
+    }
+  ]
+}

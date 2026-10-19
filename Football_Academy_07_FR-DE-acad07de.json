@@ -1,0 +1,252 @@
+{
+  "id": "acad07de",
+  "name": "Football Academy 07 FR-DE",
+  "source_lang": "fr",
+  "target_lang": "de",
+  "pairs": [
+    {
+      "source": "Mise en garde",
+      "target": "Ermahnung"
+    },
+    {
+      "source": "Avertissement",
+      "target": "Verwarnung"
+    },
+    {
+      "source": "Exclusion",
+      "target": "Feldverweis"
+    },
+    {
+      "source": "Carton jaune",
+      "target": "Gelbe Karte"
+    },
+    {
+      "source": "Carton rouge",
+      "target": "Rote Karte"
+    },
+    {
+      "source": "Attitude imprudente",
+      "target": "Fahrlässigkeit"
+    },
+    {
+      "source": "Attitude inconsidérée",
+      "target": "Rücksichtslosigkeit"
+    },
+    {
+      "source": "Attitude violente",
+      "target": "Übermässige Härte"
+    },
+    {
+      "source": "Comportement antisportif",
+      "target": "Unsportliches Verhalten"
+    },
+    {
+      "source": "Acte de brutalité",
+      "target": "Tätlichkeit"
+    },
+    {
+      "source": "Faute de main",
+      "target": "Handspiel"
+    },
+    {
+      "source": "But",
+      "target": "Tor"
+    },
+    {
+      "source": "But contre son camp",
+      "target": "Eigentor"
+    },
+    {
+      "source": "Coup d’envoi",
+      "target": "Anstoss"
+    },
+    {
+      "source": "Coup de pied de but",
+      "target": "Abstoss"
+    },
+    {
+      "source": "Rentrée de touche",
+      "target": "Einwurf"
+    },
+    {
+      "source": "Corner",
+      "target": "Eckstoss"
+    },
+    {
+      "source": "Coup franc direct",
+      "target": "Direkter Freistoss"
+    },
+    {
+      "source": "Coup franc indirect",
+      "target": "Indirekter Freistoss"
+    },
+    {
+      "source": "Penalty",
+      "target": "Strafstoss / Elfmeter"
+    },
+    {
+      "source": "Balle à terre",
+      "target": "Schiedsrichterball"
+    },
+    {
+      "source": "Reprise du jeu",
+      "target": "Spielfortsetzung"
+    },
+    {
+      "source": "Arbitre (ARB) / Arbitre",
+      "target": "Schiedsrichter (SR) / Schiedsrichter"
+    },
+    {
+      "source": "Arbitre assistant (AA) / Arbitre assistant",
+      "target": "Schiedsrichterassistent (SRA) / Schiedsrichterassistent"
+    },
+    {
+      "source": "Quatrième arbitre",
+      "target": "Vierter Offizieller"
+    },
+    {
+      "source": "Arbitre assistant vidéo (VAR) / Arbitre assistant vidéo",
+      "target": "Video-Schiedsrichterassistent (VAR) / Video-Schiedsrichterassistent"
+    },
+    {
+      "source": "Joueur",
+      "target": "Spieler"
+    },
+    {
+      "source": "Officiel d’équipe",
+      "target": "Teamoffizieller"
+    },
+    {
+      "source": "Agent extérieur",
+      "target": "Drittperson"
+    },
+    {
+      "source": "Ligne de but",
+      "target": "Torlinie"
+    },
+    {
+      "source": "Ligne de touche",
+      "target": "Seitenlinie"
+    },
+    {
+      "source": "Ligne médiane",
+      "target": "Mittellinie"
+    },
+    {
+      "source": "Surface de réparation",
+      "target": "Strafraum"
+    },
+    {
+      "source": "Surface de but",
+      "target": "Torraum"
+    },
+    {
+      "source": "Rond central",
+      "target": "Mittelkreis"
+    },
+    {
+      "source": "Point central",
+      "target": "Anstosspunkt"
+    },
+    {
+      "source": "Point de penalty",
+      "target": "Penaltypunkt"
+    },
+    {
+      "source": "Poteau",
+      "target": "Pfosten"
+    },
+    {
+      "source": "Barre transversale",
+      "target": "Latte"
+    },
+    {
+      "source": "Poteau de corner",
+      "target": "Eckfahne"
+    },
+    {
+      "source": "Distance",
+      "target": "Abstand"
+    },
+    {
+      "source": "Veuillez respecter la distance",
+      "target": "Bitte Abstand einhalten"
+    },
+    {
+      "source": "Jouez plus vite",
+      "target": "Schneller spielen"
+    },
+    {
+      "source": "Attends",
+      "target": "Warten"
+    },
+    {
+      "source": "Sifflet",
+      "target": "Pfeife"
+    },
+    {
+      "source": "Attends, je dois siffler",
+      "target": "Warte, ich muss pfeifen"
+    },
+    {
+      "source": "Remplacement",
+      "target": "Auswechslung"
+    },
+    {
+      "source": "Joueur remplaçant",
+      "target": "Einwechselspieler / Ersatzspieler"
+    },
+    {
+      "source": "Blessure",
+      "target": "Verletzung"
+    },
+    {
+      "source": "Joueur blessé",
+      "target": "Verletzter Spieler"
+    },
+    {
+      "source": "Maillot",
+      "target": "Trikot"
+    },
+    {
+      "source": "Gardien de but",
+      "target": "Torhüter"
+    },
+    {
+      "source": "Défenseur",
+      "target": "Verteidiger"
+    },
+    {
+      "source": "Milieu de terrain",
+      "target": "Mittelfeldspieler"
+    },
+    {
+      "source": "Attaquant",
+      "target": "Angreifer"
+    },
+    {
+      "source": "Décompte / compte à rebours",
+      "target": "Countdown"
+    },
+    {
+      "source": "Procédure en trois phases",
+      "target": "Drei-Stufen-Prozess"
+    },
+    {
+      "source": "Interrompre le match",
+      "target": "Spiel unterbrechen"
+    },
+    {
+      "source": "Suspendre le match",
+      "target": "Spiel aussetzen"
+    },
+    {
+      "source": "Arrêter le match",
+      "target": "Spiel abbrechen"
+    },
+    {
+      "source": "Incidents graves",
+      "target": "Schwerwiegende Vorfälle"
+    }
+  ]
+}
